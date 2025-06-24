@@ -20,12 +20,10 @@ To create a fair, transparent, and intermediary-free micro-task economy on the C
 - Integrate with IPFS for storing detailed task descriptions or submission proofs.
 
 ## Contract Details
-- **Contract Address**: [Paste the contract address from Remix/MetaMask]
-- **Transaction Hash**: [Paste the transaction hash from deployment]
-- **Block Explorer Link**: [Search for the transaction on https://scan.test2.btcs.network/ and paste the link]
-- **Transaction Screenshot**: [Embed the screenshot of the transaction from the block explorer]
-
-Transaction Screenshot
+- **Contract Address**: 0xE91Ef67f5921E2E5C05aC51b6017a8dB2D90D1c6
+- **Transaction Hash**: 0xfc4994b7216cb8ca257b5042cdcbcdfca795e72e3bb6b9d773ae62668bfd4b73
+- **Block Explorer Link**: [Transaction link](https://scan.test2.btcs.network/tx/0xfc4994b7216cb8ca257b5042cdcbcdfca795e72e3bb6b9d773ae62668bfd4b73)
+- **Transaction Screenshot**: 
 ![image](https://github.com/user-attachments/assets/e686c8dc-f87d-4f4c-9183-4a4471a08972
 )
 
